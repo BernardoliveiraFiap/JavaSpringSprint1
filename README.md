@@ -30,6 +30,8 @@ Acesse a aplicação em um navegador da web ou faça solicitações HTTP usando 
 
 # Imagem DER: 
 ![image](https://github.com/BernardoliveiraFiap/JavaSpringSprint1/assets/126569987/d8c70218-e9b9-4df5-95e5-29ef09a0f007)
+![image](https://github.com/BernardoliveiraFiap/JavaSpringSprint1/assets/126569987/c4878e96-8697-4e48-be3f-332887611bf7)
+
 
 
 
